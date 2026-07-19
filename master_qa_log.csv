@@ -1,0 +1,6 @@
+Batch_ID,Timestamp,Line_Name,Material_ID,Vendor_Cert_Status,Material_Storage_Status,Is_Allergen,Allergen_Storage_Compliant,Freezer_ID,Freezer_Temp_C,CIP_Equip,CIP_Step,CIP_Temp_C,Micro_Swab_Result
+B-100,2026-07-16T08:00,Line-1,MAT-X,Certified,Approved,False,Yes,FRZ-20,-21.0,PMST-1,Lye Circulation,78.5,Negative
+B-101,2026-07-16T09:30,Line-1,MAT-Y,Certified,Approved,True,No,FRZ-80,-81.0,HMST-1,Hot Water,82.0,Negative
+B-102,2026-07-16T11:00,Line-2,MAT-Z,Uncertified,Quarantined,False,Yes,FRZ-20,-15.0,Silo-1,Acid Circulation,72.0,Positive_Salmonella
+B-103,2026-07-16T13:15,Line-2,MAT-W,Certified,Approved,True,Yes,FRZ-80,-80.5,PMST-2,Pre-Rinse,48.0,Negative
+B-104,2026-07-16T15:45,Line-3,MAT-V,Certified,Rejected,False,Yes,COLD-RM,4.0,HMST-2,Lye Circulation,65.0,Negative

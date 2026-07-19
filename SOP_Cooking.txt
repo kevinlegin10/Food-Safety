@@ -1,0 +1,4 @@
+STANDARD OPERATING PROCEDURE: POULTRY COOKING
+Batch cooking vats must reach a minimum internal temperature of 165°F.
+Once 165°F is reached, the temperature must be maintained for exactly 3 minutes.
+If the temperature falls below 165°F during the 3-minute hold, or fails to reach 165°F, the batch fails the critical limit. Failed batches must be immediately quarantined and flagged for reprocessing. No exceptions.
